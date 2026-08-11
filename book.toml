@@ -1,0 +1,11 @@
+[book]
+title = "N4: TCP/IPプロトコルスタック自作入門"
+authors = ["YAMAMOTO Masaya"]
+language = "ja"
+src = "src"
+
+#[preprocessor.alerts]
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
